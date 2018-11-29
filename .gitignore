@@ -1,0 +1,7 @@
+#gitignore
+
+# ignore bin directory
+/bin
+
+# ignore compiled files
+*.o
