@@ -9,4 +9,6 @@ int main(void) {
     while (getchar() != EOF)
         ++nc;
     printf("%ld\n", nc);
+
+    printf("%d\n", EOF);
 }
