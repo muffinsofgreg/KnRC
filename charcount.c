@@ -8,7 +8,7 @@ int main(void) {
     nc = 0;
     while (getchar() != EOF)
         ++nc;
-    printf("%ld\n", nc);
+    printf("\n%ld\n", nc);
 
     printf("%d\n", EOF);
 }
